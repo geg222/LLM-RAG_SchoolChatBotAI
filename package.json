@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dateparser": "^1.0.6",
+    "datetime": "^0.0.3"
+  }
+}
